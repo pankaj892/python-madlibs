@@ -1,3 +1,3 @@
 # python-madlibs
 
-Madlibs generator in python 
+Madlibs generator implemented in python 
